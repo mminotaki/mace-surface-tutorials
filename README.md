@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mminotaki/mace-surface-science-tutorials" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-mace--surface--science--tutorials-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo" />
+  <a href="https://github.com/mminotaki/mace-surface-tutorials" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-mace--surface--tutorials-181717?style=flat&logo=github&logoColor=white" alt="GitHub Repo" />
   </a>
   <a href="https://github.com/ACEsuit/mace" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/MACE-0.3.15-blue?style=flat" alt="MACE version" />
