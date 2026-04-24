@@ -1,0 +1,35 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# MACE / ML model files
+*.pt
+*.pth
+*.model
+checkpoints/
+logs/
+results/
+
+# ASE / simulation outputs
+*.traj
+*.xyz
+*.log
+*.out
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual envs (in case someone clones locally)
+venv/
+env/
+.venv/
